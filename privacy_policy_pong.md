@@ -30,6 +30,8 @@ Contacto
 Si tienes preguntas sobre esta Política de Privacidad, puedes contactar a:
 📩 ljosue.chavez@gmail.com
 
+
+
 🇬🇧 Privacy Policy – Pong Godot
 
 Last updated: 2025-11-26
