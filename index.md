@@ -1,65 +1,43 @@
-🇪🇸 Política de Privacidad – Pong Godot
+🇪🇸 Política de Privacidad – Aplicaciones y Juegos de Luis Chávez
 
-Última actualización: 2025-11-26
+Última actualización: 15 de marzo de 2026
 
-Pong Godot es un juego desarrollado por Luis Chávez.
-Este juego no recopila, almacena ni comparte información personal de los usuarios.
+Esta Política de Privacidad describe cómo se maneja la información en las aplicaciones y juegos desarrollados por Luis Chávez (incluyendo "Pong Godot" y "Calculadora Financiera").
 
-Permisos
+1. Recopilación de Datos y Aplicaciones Offline
+Mis aplicaciones están diseñadas para respetar tu privacidad.
+- **Juegos (ej. Pong Godot):** No recopilan, almacenan ni comparten ninguna información personal del usuario, ni requieren permisos especiales del dispositivo (como cámara, micrófono o ubicación).
+- **Herramientas (ej. Calculadora Financiera):** Todos los cálculos, números introducidos y datos financieros se procesan temporalmente y se quedan de manera local en tu dispositivo. El desarrollador no tiene acceso a tus datos financieros, no se guardan en bases de datos externas ni se comparten.
 
-El juego no solicita ni utiliza permisos especiales del dispositivo (como cámara, micrófono, ubicación o acceso a archivos personales).
+2. Servicios de Terceros y Publicidad
+Algunas de nuestras aplicaciones gratuitas se financian mediante anuncios publicitarios proporcionados por terceros, específicamente **Google AdMob**.
+Para poder mostrar estos anuncios, Google AdMob puede recopilar automáticamente cierta información técnica del dispositivo, como la dirección IP, datos de uso de la red y el Identificador de Publicidad de Android (Advertising ID). Esta información se procesa con el único propósito de servir anuncios y analizar el tráfico publicitario.
+Para obtener más información sobre cómo Google procesa estos datos, puedes revisar su Política de Privacidad aquí: https://policies.google.com/privacy
 
-Datos del dispositivo
-
-No se recopila ningún tipo de dato relacionado con:
-
-Identificadores del dispositivo
-
-Estadísticas de uso
-
-Información de red
-
-Información personal o sensible
-
-Servicios de terceros
-
-Este juego no utiliza servicios de análisis, publicidad, o conexión a internet para recopilar información del usuario.
-
-Contacto
-
+3. Contacto
 Si tienes preguntas sobre esta Política de Privacidad, puedes contactar a:
 📩 ljosue.chavez@gmail.com
 
 
+---
 
-🇬🇧 Privacy Policy – Pong Godot
 
-Last updated: 2025-11-26
+🇬🇧 Privacy Policy – Apps and Games by Luis Chávez
 
-Pong Godot is a game developed by Luis Chávez.
-This game does not collect, store, or share any personal user information.
+Last updated: March 15, 2026
 
-Permissions
+This Privacy Policy applies to the applications and games developed by Luis Chávez (including "Pong Godot" and "Finance Calculator").
 
-The game does not request or use any special device permissions (such as camera, microphone, location, or access to personal files).
+1. Data Collection and Offline Apps
+My applications are built with your privacy in mind.
+- **Games (e.g., Pong Godot):** Do not collect, store, or share any personal user information. They do not request any special device permissions (such as camera, microphone, or location).
+- **Tools (e.g., Finance Calculator):** All inputs, financial data, and calculations are processed locally on your device. The developer has no access to your financial data, and it is never uploaded to any external servers.
 
-Device data
+2. Third-Party Services and Advertising
+Some of our free applications are ad-supported and use third-party services, specifically **Google AdMob**.
+To serve these advertisements, Google AdMob may automatically collect certain technical device information, such as IP addresses, network usage data, and the Android Advertising ID. This information is processed solely for the purpose of delivering ads and measuring ad performance.
+For more information on how Google handles and processes this data, please review their Privacy Policy here: https://policies.google.com/privacy
 
-No data of any kind is collected, including:
-
-Device identifiers
-
-Usage statistics
-
-Network information
-
-Personal or sensitive data
-
-Third-party services
-
-This game does not use analytics, advertising, or internet services to collect any data.
-
-Contact
-
+3. Contact
 If you have any questions about this Privacy Policy, you can reach us at:
 📩 ljosue.chavez@gmail.com
